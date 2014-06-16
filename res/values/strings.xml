@@ -2,6 +2,7 @@
 <resources>
 
     <string name="app_name">HelloWorld</string>
+    <string name="eidt_message">Enter a message</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
